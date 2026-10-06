@@ -42,6 +42,7 @@
 | 🖥️ **平台** | x86_64（飞牛 fnOS，安装位置：系统空间） |
 | 📦 **安装包** | 本仓 [Releases](https://github.com/LiuLiuxc/FnDepot/releases)（141.6 MB） |
 | 📖 **详细说明** | [miNVR/README.md](miNVR/README.md) |
+| ❤️ **爱发电** | [afdian.com/a/miNVR](https://afdian.com/a/miNVR)（支持开发者持续维护） |
 
 ---
 
