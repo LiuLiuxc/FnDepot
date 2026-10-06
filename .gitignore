@@ -16,7 +16,7 @@ publish.conf.json
 # ★ 令牌文件绝对不能进仓库（写了就是在公开仓库里发令牌）
 .github_token
 *.token
-preview/_放这里.txt
+_放这里.txt
 步骤*.md
 发布*.md
 
