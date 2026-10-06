@@ -4,8 +4,10 @@
 # 它由 Release 承载，moo.json 里的 download_url 直接指向 Release 下载链接。
 *.fpk
 
-# 发布工具与个人配置（仓库里只放：moo.json + ICON.PNG + README.md + preview/*）
+# 发布工具与个人配置（仓库里只放：moo.json + fnpack.json + ICON.PNG + README.md + preview/*）
 build_moo_json.py
+build_fnpack.py
+verify_source.py
 publish.py
 publish_github.py
 push_index.py

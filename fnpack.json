@@ -1,0 +1,26 @@
+{
+  "miNVR": {
+    "display_name": "miNVR",
+    "desc": "适配米家摄像头的本地视频监控：实时预览、区域侦测、事件录像、历史回放、邮件提醒，画面全部留在自己的 NAS 上。",
+    "labels": "摄影摄像,监控,录像",
+    "platform": [
+      "x86"
+    ],
+    "version": "1.4.68",
+    "author": "Anixc",
+    "author_url": "https://github.com/LiuLiuxc",
+    "distributor": "Anixc",
+    "distributor_url": "https://github.com/LiuLiuxc/FnDepot",
+    "download_url": "https://github.com/LiuLiuxc/FnDepot/releases/download/v1.4.68/miNVR_1.4.68.fpk",
+    "bug_report_url": "https://github.com/LiuLiuxc/FnDepot/issues",
+    "install_type": "系统空间",
+    "size": "141.6",
+    "changelog": "1.4.68：「关于」界面优化 —— 版本信息与说明文字重新排布，查看更方便。",
+    "history": {},
+    "arch_diff": {
+      "x86": {
+        "download_url": "https://github.com/LiuLiuxc/FnDepot/releases/download/v1.4.68/miNVR_1.4.68.fpk"
+      }
+    }
+  }
+}
