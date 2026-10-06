@@ -8,6 +8,7 @@
 build_moo_json.py
 publish.py
 publish_github.py
+push_index.py
 publish.conf.json
 
 # ★ 令牌文件绝对不能进仓库（写了就是在公开仓库里发令牌）

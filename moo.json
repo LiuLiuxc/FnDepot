@@ -29,7 +29,7 @@
       "service_port": "17062",
       "sha256": "08c818226e700e029e7f3a8a18156b3acb634892943f44db028129e493605484",
       "size": 141.6,
-      "updated_at": "2026-10-07T01:49:12+08:00",
+      "updated_at": "2026-10-07T02:21:13+08:00",
       "version": "1.4.68"
     }
   },
@@ -38,7 +38,7 @@
     "description": "个人开发者的飞牛 fnOS 第三方应用源。",
     "distributor": "Anixc",
     "generated_by": "build_moo_json.py",
-    "name": "Anixc 应用仓",
-    "updated_at": "2026-10-07T01:49:12+08:00"
+    "name": "LiuLiuxc",
+    "updated_at": "2026-10-07T02:21:13+08:00"
   }
 }
