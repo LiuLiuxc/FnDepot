@@ -29,7 +29,7 @@
       "service_port": "17062",
       "sha256": "5a7e049a4f886ad1e1bc5c5851d24d214d795b1d8a8592b7832f8dde9e38ae6e",
       "size": 141.6,
-      "updated_at": "2026-10-07T00:16:39+08:00",
+      "updated_at": "2026-10-07T00:19:14+08:00",
       "version": "1.4.66"
     }
   },
@@ -39,6 +39,6 @@
     "distributor": "Anixc",
     "generated_by": "build_moo_json.py",
     "name": "Anixc 应用仓",
-    "updated_at": "2026-10-07T00:16:39+08:00"
+    "updated_at": "2026-10-07T00:19:14+08:00"
   }
 }
