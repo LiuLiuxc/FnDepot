@@ -21,6 +21,18 @@
       "x86": {
         "download_url": "https://github.com/LiuLiuxc/FnDepot/releases/download/v1.4.68/miNVR_1.4.68.fpk"
       }
-    }
+    },
+    "icon_url": "https://raw.githubusercontent.com/LiuLiuxc/FnDepot/main/miNVR/ICON.PNG",
+    "readme_url": "https://raw.githubusercontent.com/LiuLiuxc/FnDepot/main/miNVR/README.md",
+    "sha256": "08c818226e700e029e7f3a8a18156b3acb634892943f44db028129e493605484",
+    "updated_at": "2026-10-07T03:17:57+08:00",
+    "min_fnos": "1.2.0604",
+    "service_port": "17062",
+    "preview_urls": [
+      "https://raw.githubusercontent.com/LiuLiuxc/FnDepot/main/miNVR/preview/01_live.png",
+      "https://raw.githubusercontent.com/LiuLiuxc/FnDepot/main/miNVR/preview/02_playback.png",
+      "https://raw.githubusercontent.com/LiuLiuxc/FnDepot/main/miNVR/preview/03_settings_camera.png",
+      "https://raw.githubusercontent.com/LiuLiuxc/FnDepot/main/miNVR/preview/04_about.png"
+    ]
   }
 }
