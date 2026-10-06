@@ -1,0 +1,44 @@
+{
+  "apps": {
+    "minvr": {
+      "app_type": "fpk",
+      "author": "Anixc",
+      "author_url": "mailto:anixc0628@foxmail.com",
+      "categories": [
+        "摄影摄像"
+      ],
+      "changelog": "1.4.66：修上一版（1.4.65）**日志落盘后全挤在一行**的问题。① 现象：新增的那份按日期落盘的日志（录像目录下的 logs/年/月/日/），打开后除了第一行，后面所有内容糊成一坨 —— 真机实测 3491 字节的文件里只有 2 个换行。② 原因：日志是按「一整行」来判断重复、折叠的，但打印语句其实是**分两次**写出去 —— 先写正文，再写那个换行。上一版把先写进来的正文当成一条完整的行落了盘，随后那个换行就成了孤零零的一条「行」；折叠逻辑看它跟上一条一模一样（都是换行），就当成「重复行」**只记数、不真写** —— 于是除最开头那一次，后面每个换行都被吃掉，文件挤成一行，末尾还会多一条假的「共重复 N 次」。③ 修法：把「一行」的定义摆正 —— 没写到换行就继续攒着，等换行到了才算一行；折叠只对真正的整行生效，换行永远写得出去。④ 顺带把收尾做扎实：一次写不完的长尾巴、程序退出、日志跨天这三处都会把内容落干净；进程最后阶段关闭输出流时也不会把日志文件一起关掉（否则那之后的日志会**静默**消失）。⑤ 说明：原 start.log 与飞牛界面里的日志**一字未动**，受影响的只是这份新增的按日期日志；录像、直播、音频链路本版一律未动。",
+      "desc": "适配米家摄像头的本地视频监控：实时预览、区域侦测、事件录像、历史回放、邮件提醒，画面全部留在自己的 NAS 上。",
+      "desc_html": "<p><b>说明</b>：高级功能相关的设置与行为仅为开发者个人行为，与飞牛无关。</p><p><b>获取完整能力</b>：本应用为个人开发者作品，基础功能长期可用；需要完整能力时，<b>请与开发者联系</b>（应用内「图腾」处提供开发者邮箱），按设备获取 1 枚图腾即可解锁（<b>一机一码</b>），永久有效，后续版本更新<b>无需重复获取图腾</b>。<b>获取图腾后</b>享完整功能：事件时间轴标记、邮件变动推送带图/“仅有人”/打包汇总、录像按 1/3/6 个月或 1/2/3 年长期保存、高级侦测与存储设置可调。<b>未获取图腾（含 15 天全功能试用结束后）</b>：画面预览、本地录像、故障邮件等基础功能仍可用，录像约 15 天滚动存储、历史可回放近 15 天、实时事件仅显示最近 3 条、变动推送不附截图。新装自动赠送 <b>15 天全功能试用</b>。</p><p><b>miNVR</b> · 适配米家摄像头</p><p>把摄像头画面留在自己的 NAS 上，无需再买整套通用 NVR。</p><p><b>核心能力</b></p><ul><li>实时预览 · 区域标定 · 移动侦测</li><li>完整事件录像：预录 + 变动 + 后延</li><li>邮件提醒 · 历史时间轴回放</li></ul><p><b>数据位置</b>：录像保存在本机，可在「应用设置 → 运行设置」中配置目录；更换录像目录后图腾一般不会失效，万一提示失效，重新获取一次图腾即可。</p><p><b>合规</b>：请仅在自有或已获合法许可的场所使用。</p>",
+      "display_name": "miNVR",
+      "distributor": "Anixc",
+      "download_url": "https://github.com/LiuLiuxc/miNVR/releases/download/v1.4.66/miNVR_1.4.66.fpk",
+      "icon_url": "https://raw.githubusercontent.com/LiuLiuxc/miNVR/main/ICON.PNG",
+      "install_type": "package",
+      "min_fnos": "1.2.0604",
+      "platform": [
+        "x86"
+      ],
+      "preview_urls": [
+        "https://raw.githubusercontent.com/LiuLiuxc/miNVR/main/preview/01_live.png",
+        "https://raw.githubusercontent.com/LiuLiuxc/miNVR/main/preview/02_playback.png",
+        "https://raw.githubusercontent.com/LiuLiuxc/miNVR/main/preview/03_settings_camera.png",
+        "https://raw.githubusercontent.com/LiuLiuxc/miNVR/main/preview/04_about.png"
+      ],
+      "readme_url": "https://raw.githubusercontent.com/LiuLiuxc/miNVR/main/README.md",
+      "service_port": "17062",
+      "sha256": "5a7e049a4f886ad1e1bc5c5851d24d214d795b1d8a8592b7832f8dde9e38ae6e",
+      "size": 141.6,
+      "updated_at": "2026-10-07T00:11:24+08:00",
+      "version": "1.4.66"
+    }
+  },
+  "schema_version": "moo",
+  "source_info": {
+    "description": "个人开发者的飞牛 fnOS 第三方应用源。",
+    "distributor": "Anixc",
+    "generated_by": "build_moo_json.py",
+    "name": "Anixc 应用仓",
+    "updated_at": "2026-10-07T00:11:24+08:00"
+  }
+}

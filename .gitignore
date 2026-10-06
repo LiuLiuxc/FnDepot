@@ -1,0 +1,28 @@
+# ── 不进仓库 ─────────────────────────────────────────────────────────────
+# 安装包走 GitHub Release 附件，不进仓库。
+# 原因：fpk 有 141.6 MB，超过 GitHub 仓库单文件 100 MB 硬上限，git push 必然失败。
+# 它由 Release 承载，moo.json 里的 download_url 直接指向 Release 下载链接。
+*.fpk
+
+# 发布工具与个人配置（仓库里只放：moo.json + ICON.PNG + README.md + preview/*）
+build_moo_json.py
+publish.py
+publish_github.py
+publish.conf.json
+
+# ★ 令牌文件绝对不能进仓库（写了就是在公开仓库里发令牌）
+.github_token
+*.token
+preview/_放这里.txt
+步骤*.md
+发布*.md
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 编辑/系统临时文件
+*.bak
+*.tmp
+Thumbs.db
+.DS_Store
