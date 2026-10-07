@@ -4,9 +4,11 @@
 ![fnOS](https://img.shields.io/badge/fnOS-NAS-green?style=for-the-badge)
 ![Moo](https://img.shields.io/badge/Moo-应用源-purple?style=for-the-badge)
 
-# 🚀 FnDepot 第三方应用源
+# 🚀 第三方应用商店源
 
-**由 [Anixc](https://github.com/LiuLiuxc) 维护的飞牛 fnOS 第三方应用源**
+**由 [Anixc](https://github.com/LiuLiuxc) 维护的飞牛 fnOS 第三方应用商店源**
+
+索引同时提供 **Moo**（`moo.json`）与 **FnDepot**（`fnpack.json`）两种格式，两个商店都能添加本源。
 
 [![GitHub stars](https://img.shields.io/github/stars/LiuLiuxc/FnDepot?style=social)](https://github.com/LiuLiuxc/FnDepot)
 [![GitHub forks](https://img.shields.io/github/forks/LiuLiuxc/FnDepot?style=social)](https://github.com/LiuLiuxc/FnDepot)
