@@ -32,7 +32,7 @@
       "releases": {
         "1.4.71": {
           "changelog": "1.4.71：修复系统稳定性偶现问题，提升用户体验 —— 没有观看时后台占用更低，长时间挂着更省资源、更稳定。",
-          "updated_at": "2026-10-07T17:02:30+08:00",
+          "updated_at": "2026-10-07T17:06:01+08:00",
           "os_min_version": "1.2.0604",
           "packages": {
             "x86": {
@@ -43,7 +43,14 @@
           }
         }
       },
-      "readme_url": "https://raw.githubusercontent.com/LiuLiuxc/FnDepot/main/README.md"
+      "icon_url": "https://raw.githubusercontent.com/LiuLiuxc/FnDepot/main/miNVR/ICON.PNG",
+      "readme_url": "https://raw.githubusercontent.com/LiuLiuxc/FnDepot/main/miNVR/README.md",
+      "preview_urls": [
+        "https://raw.githubusercontent.com/LiuLiuxc/FnDepot/main/miNVR/preview/01_live.png",
+        "https://raw.githubusercontent.com/LiuLiuxc/FnDepot/main/miNVR/preview/02_playback.png",
+        "https://raw.githubusercontent.com/LiuLiuxc/FnDepot/main/miNVR/preview/03_settings_camera.png",
+        "https://raw.githubusercontent.com/LiuLiuxc/FnDepot/main/miNVR/preview/04_about.png"
+      ]
     }
   }
 }
