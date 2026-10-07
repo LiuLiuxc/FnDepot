@@ -17,6 +17,9 @@
         "影音娱乐",
         "生活服务"
       ],
+      "labels": [
+        "摄影摄像"
+      ],
       "maintainer": "Anixc",
       "maintainer_url": "https://github.com/LiuLiuxc",
       "distributor": "Anixc",
@@ -27,27 +30,19 @@
       "service_port": "17062",
       "bug_report_url": "https://github.com/LiuLiuxc/FnDepot/issues",
       "releases": {
-        "1.4.70": {
-          "changelog": "1.4.70：商店介绍与应用内的「获取图腾」说明统一为手机扫码（扫码不便时仍可按页面邮箱联系）。",
-          "updated_at": "2026-10-07T16:25:33+08:00",
+        "1.4.71": {
+          "changelog": "1.4.71：修复系统稳定性偶现问题，提升用户体验 —— 没有观看时后台占用更低，长时间挂着更省资源、更稳定。",
+          "updated_at": "2026-10-07T17:02:21+08:00",
           "os_min_version": "1.2.0604",
           "packages": {
             "x86": {
-              "download_url": "https://github.com/LiuLiuxc/FnDepot/releases/download/v1.4.70/miNVR_1.4.70.fpk",
-              "sha256": "1128ae2621b30232abebeb97c4d4f59e7cdbd07e580aeb642898fdbb439f7935",
-              "size": 148482475
+              "download_url": "miNVR_1.4.71.fpk",
+              "sha256": "93b9f01020fe6a62117274ab062a18c39cec33560e4d9a96fe478fae9ba50386",
+              "size": 148484922
             }
           }
         }
-      },
-      "icon_url": "https://raw.githubusercontent.com/LiuLiuxc/FnDepot/main/miNVR/ICON.PNG",
-      "readme_url": "https://raw.githubusercontent.com/LiuLiuxc/FnDepot/main/miNVR/README.md",
-      "preview_urls": [
-        "https://raw.githubusercontent.com/LiuLiuxc/FnDepot/main/miNVR/preview/01_live.png",
-        "https://raw.githubusercontent.com/LiuLiuxc/FnDepot/main/miNVR/preview/02_playback.png",
-        "https://raw.githubusercontent.com/LiuLiuxc/FnDepot/main/miNVR/preview/03_settings_camera.png",
-        "https://raw.githubusercontent.com/LiuLiuxc/FnDepot/main/miNVR/preview/04_about.png"
-      ]
+      }
     }
   }
 }
