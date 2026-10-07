@@ -3,7 +3,7 @@
   "source_info": {
     "name": "LiuLiuxc",
     "author": "Anixc",
-    "description": "个人开发者的飞牛 fnOS 第三方应用商店源，Moo 与 FnDepot 均可添加。",
+    "description": "个人开发者的 Moo / FnDepot 第三方应用源。",
     "homepage": "https://github.com/LiuLiuxc/FnDepot"
   },
   "apps": {
@@ -32,7 +32,7 @@
       "releases": {
         "1.4.71": {
           "changelog": "1.4.71：修复系统稳定性偶现问题，提升用户体验 —— 没有观看时后台占用更低，长时间挂着更省资源、更稳定。",
-          "updated_at": "2026-10-07T17:12:38+08:00",
+          "updated_at": "2026-10-07T17:13:56+08:00",
           "os_min_version": "1.2.0604",
           "packages": {
             "x86": {

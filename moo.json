@@ -29,16 +29,16 @@
       "service_port": "17062",
       "sha256": "93b9f01020fe6a62117274ab062a18c39cec33560e4d9a96fe478fae9ba50386",
       "size": 141.61,
-      "updated_at": "2026-10-07T17:12:38+08:00",
+      "updated_at": "2026-10-07T17:13:56+08:00",
       "version": "1.4.71"
     }
   },
   "schema_version": "moo",
   "source_info": {
-    "description": "个人开发者的飞牛 fnOS 第三方应用商店源，Moo 与 FnDepot 均可添加。",
+    "description": "个人开发者的 Moo / FnDepot 第三方应用源。",
     "distributor": "Anixc",
     "generated_by": "build_moo_json.py",
     "name": "LiuLiuxc",
-    "updated_at": "2026-10-07T17:12:38+08:00"
+    "updated_at": "2026-10-07T17:13:56+08:00"
   }
 }
