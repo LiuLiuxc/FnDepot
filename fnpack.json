@@ -30,15 +30,15 @@
       "service_port": "17062",
       "bug_report_url": "https://github.com/LiuLiuxc/FnDepot/issues",
       "releases": {
-        "1.4.71": {
-          "changelog": "1.4.71：修复系统稳定性偶现问题，提升用户体验 —— 没有观看时后台占用更低，长时间挂着更省资源、更稳定。",
-          "updated_at": "2026-10-07T17:13:56+08:00",
+        "1.4.72": {
+          "changelog": "1.4.72：一台设备带上下两个镜头时，设备列表里会分别列出「上摄像头」「下摄像头」，可各自单独添加；此前认不出的双镜头机型也一并支持，未自动列出时选中设备、勾选「这台设备是双摄」即可展开。",
+          "updated_at": "2026-10-07T18:14:11+08:00",
           "os_min_version": "1.2.0604",
           "packages": {
             "x86": {
-              "download_url": "https://github.com/LiuLiuxc/FnDepot/releases/download/v1.4.71/miNVR_1.4.71.fpk",
-              "sha256": "93b9f01020fe6a62117274ab062a18c39cec33560e4d9a96fe478fae9ba50386",
-              "size": 148484922
+              "download_url": "https://github.com/LiuLiuxc/FnDepot/releases/download/v1.4.72/miNVR_1.4.72.fpk",
+              "sha256": "8eb88ea8aaae89d19d44da9ecf81a4f18885c089ff435919845f8e7305f231d8",
+              "size": 148491040
             }
           }
         }

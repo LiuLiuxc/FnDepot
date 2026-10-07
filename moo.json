@@ -7,30 +7,23 @@
       "categories": [
         "摄影摄像"
       ],
-      "changelog": "1.4.71：修复系统稳定性偶现问题，提升用户体验 —— 没有观看时后台占用更低，长时间挂着更省资源、更稳定。",
+      "changelog": "1.4.72：一台设备带上下两个镜头时，设备列表里会分别列出「上摄像头」「下摄像头」，可各自单独添加；此前认不出的双镜头机型也一并支持，未自动列出时选中设备、勾选「这台设备是双摄」即可展开。",
       "desc": "适配米家摄像头的本地视频监控：实时预览、区域侦测、事件录像、历史回放、邮件提醒，画面全部留在自己的 NAS 上。",
       "desc_html": "<p><b>说明</b>：高级功能相关的设置与行为仅为开发者个人行为，与飞牛无关。</p><p><b>获取完整能力</b>：本应用为个人开发者作品，基础功能长期可用；需要完整能力时，在应用内「图腾」卡点<b>「获取图腾」</b>会显示一个<b>二维码</b>，用手机<b>扫码获取</b>，按设备获取 1 枚图腾即可解锁（<b>一机一码</b>），永久有效，后续版本更新<b>无需重复获取图腾</b>；扫码不便时，也可<b>请与开发者联系</b>（联系方式见应用内「图腾」页）。<b>获取图腾后</b>享完整功能：事件时间轴标记、邮件变动推送带图/“仅有人”/打包汇总、录像按 1/3/6 个月或 1/2/3 年长期保存、高级侦测与存储设置可调。<b>未获取图腾（含 15 天全功能试用结束后）</b>：画面预览、本地录像、故障邮件等基础功能仍可用，录像约 15 天滚动存储、历史可回放近 15 天、实时事件仅显示最近 3 条、变动推送不附截图。新装自动赠送 <b>15 天全功能试用</b>。</p><p><b>miNVR</b> · 适配米家摄像头</p><p>把摄像头画面留在自己的 NAS 上，无需再买整套通用 NVR。</p><p><b>核心能力</b></p><ul><li>实时预览 · 区域标定 · 移动侦测</li><li>完整事件录像：预录 + 变动 + 后延</li><li>邮件提醒 · 历史时间轴回放</li></ul><p><b>数据位置</b>：录像保存在本机，可在「应用设置 → 运行设置」中配置目录；更换录像目录后图腾一般不会失效，万一提示失效，重新获取一次图腾即可。</p><p><b>合规</b>：请仅在自有或已获合法许可的场所使用。</p>",
       "display_name": "miNVR",
       "distributor": "Anixc",
-      "download_url": "https://github.com/LiuLiuxc/FnDepot/releases/download/v1.4.71/miNVR_1.4.71.fpk",
-      "icon_url": "https://raw.githubusercontent.com/LiuLiuxc/FnDepot/main/miNVR/ICON.PNG",
+      "download_url": "https://github.com/LiuLiuxc/FnDepot/releases/download/v1.4.72/miNVR_1.4.72.fpk",
       "install_type": "package",
       "min_fnos": "1.2.0604",
       "platform": [
         "x86"
       ],
-      "preview_urls": [
-        "https://raw.githubusercontent.com/LiuLiuxc/FnDepot/main/miNVR/preview/01_live.png",
-        "https://raw.githubusercontent.com/LiuLiuxc/FnDepot/main/miNVR/preview/02_playback.png",
-        "https://raw.githubusercontent.com/LiuLiuxc/FnDepot/main/miNVR/preview/03_settings_camera.png",
-        "https://raw.githubusercontent.com/LiuLiuxc/FnDepot/main/miNVR/preview/04_about.png"
-      ],
-      "readme_url": "https://raw.githubusercontent.com/LiuLiuxc/FnDepot/main/miNVR/README.md",
+      "readme_url": "https://raw.githubusercontent.com/LiuLiuxc/FnDepot/main/README.md",
       "service_port": "17062",
-      "sha256": "93b9f01020fe6a62117274ab062a18c39cec33560e4d9a96fe478fae9ba50386",
+      "sha256": "8eb88ea8aaae89d19d44da9ecf81a4f18885c089ff435919845f8e7305f231d8",
       "size": 141.61,
-      "updated_at": "2026-10-07T17:13:56+08:00",
-      "version": "1.4.71"
+      "updated_at": "2026-10-07T18:14:32+08:00",
+      "version": "1.4.72"
     }
   },
   "schema_version": "moo",
@@ -39,6 +32,6 @@
     "distributor": "Anixc",
     "generated_by": "build_moo_json.py",
     "name": "LiuLiuxc",
-    "updated_at": "2026-10-07T17:13:56+08:00"
+    "updated_at": "2026-10-07T18:14:32+08:00"
   }
 }
