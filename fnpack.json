@@ -27,15 +27,15 @@
       "service_port": "17062",
       "bug_report_url": "https://github.com/LiuLiuxc/FnDepot/issues",
       "releases": {
-        "1.4.68": {
-          "changelog": "1.4.68：「关于」界面优化 —— 版本信息与说明文字重新排布，查看更方便。",
-          "updated_at": "2026-10-07T03:17:57+08:00",
+        "1.4.69": {
+          "changelog": "1.4.69：没有观看时不再空转耗 CPU，后台挂着更省资源；人体识别更准；获取图腾改为手机扫码。",
+          "updated_at": "2026-10-07T15:14:49+08:00",
           "os_min_version": "1.2.0604",
           "packages": {
             "x86": {
-              "download_url": "https://github.com/LiuLiuxc/FnDepot/releases/download/v1.4.68/miNVR_1.4.68.fpk",
-              "sha256": "08c818226e700e029e7f3a8a18156b3acb634892943f44db028129e493605484",
-              "size": 148475911
+              "download_url": "https://github.com/LiuLiuxc/FnDepot/releases/download/v1.4.69/miNVR_1.4.69.fpk",
+              "sha256": "aa74e2a137eadf9613ef11ff177e01c1a1268e30a576a8dee8a1135744abe5ac",
+              "size": 148482241
             }
           }
         }
