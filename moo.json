@@ -13,16 +13,23 @@
       "display_name": "miNVR",
       "distributor": "Anixc",
       "download_url": "https://github.com/LiuLiuxc/FnDepot/releases/download/v1.4.73/miNVR_1.4.73.fpk",
+      "icon_url": "https://raw.githubusercontent.com/LiuLiuxc/FnDepot/main/miNVR/ICON.PNG",
       "install_type": "package",
       "min_fnos": "1.2.0604",
       "platform": [
         "x86"
       ],
-      "readme_url": "https://raw.githubusercontent.com/LiuLiuxc/FnDepot/main/README.md",
+      "preview_urls": [
+        "https://raw.githubusercontent.com/LiuLiuxc/FnDepot/main/miNVR/preview/01_live.png",
+        "https://raw.githubusercontent.com/LiuLiuxc/FnDepot/main/miNVR/preview/02_playback.png",
+        "https://raw.githubusercontent.com/LiuLiuxc/FnDepot/main/miNVR/preview/03_settings_camera.png",
+        "https://raw.githubusercontent.com/LiuLiuxc/FnDepot/main/miNVR/preview/04_about.png"
+      ],
+      "readme_url": "https://raw.githubusercontent.com/LiuLiuxc/FnDepot/main/miNVR/README.md",
       "service_port": "17062",
       "sha256": "6a01ac4a906b56fcf6f8490976a546ebd2bc4ec34c842ee2b8de3711604a3d88",
       "size": 141.62,
-      "updated_at": "2026-10-08T00:05:46+08:00",
+      "updated_at": "2026-10-08T00:15:52+08:00",
       "version": "1.4.73"
     }
   },
@@ -32,6 +39,6 @@
     "distributor": "Anixc",
     "generated_by": "build_moo_json.py",
     "name": "LiuLiuxc",
-    "updated_at": "2026-10-08T00:05:46+08:00"
+    "updated_at": "2026-10-08T00:15:52+08:00"
   }
 }
