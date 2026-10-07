@@ -49,7 +49,7 @@
 ## 📂 仓库结构
 
 ```
-fnpack.json        FnDepot 索引（V1 扁平）
+fnpack.json        FnDepot 索引（V2：schema_version + source_info + apps）
 moo.json           Moo 索引
 miNVR/             每个应用一个目录
   ├── ICON.PNG     图标
