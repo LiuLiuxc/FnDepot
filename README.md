@@ -2,7 +2,7 @@
 
 ![FnDepot](https://img.shields.io/badge/FnDepot-应用源-blue?style=for-the-badge)
 ![fnOS](https://img.shields.io/badge/fnOS-NAS-green?style=for-the-badge)
-![Moo](https://img.shields.io/badge/Moo-客户端-purple?style=for-the-badge)
+![Moo](https://img.shields.io/badge/Moo-应用源-purple?style=for-the-badge)
 
 # 🚀 FnDepot 第三方应用源
 
