@@ -3,7 +3,7 @@
   "source_info": {
     "name": "LiuLiuxc",
     "author": "Anixc",
-    "description": "个人开发者的 Moo / FnDepot 第三方应用源。",
+    "description": "个人开发者的 FnDepot / Moo 第三方应用源。",
     "homepage": "https://github.com/LiuLiuxc/FnDepot"
   },
   "apps": {
@@ -32,7 +32,7 @@
       "releases": {
         "1.4.74": {
           "changelog": "1.4.74：修复切换摄像头相关的一批问题：右侧事件列表现在立即刷新；双摄机型在上下镜头间切换时不再先停在旧画面，重启后第二个镜头也能正常出画并录像。",
-          "updated_at": "2026-10-08T13:09:21+08:00",
+          "updated_at": "2026-10-08T13:49:56+08:00",
           "os_min_version": "1.2.0604",
           "packages": {
             "x86": {

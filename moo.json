@@ -29,16 +29,16 @@
       "service_port": "17062",
       "sha256": "0d1e7c2b76193fc7b61d9df35e94a5ffdf1e3ea2b6472d4d5c74cee7fc6f4e1a",
       "size": 141.62,
-      "updated_at": "2026-10-08T13:09:49+08:00",
+      "updated_at": "2026-10-08T13:49:56+08:00",
       "version": "1.4.74"
     }
   },
   "schema_version": "moo",
   "source_info": {
-    "description": "个人开发者的 Moo / FnDepot 第三方应用源。",
+    "description": "个人开发者的 FnDepot / Moo 第三方应用源。",
     "distributor": "Anixc",
     "generated_by": "build_moo_json.py",
     "name": "LiuLiuxc",
-    "updated_at": "2026-10-08T13:09:49+08:00"
+    "updated_at": "2026-10-08T13:49:56+08:00"
   }
 }
