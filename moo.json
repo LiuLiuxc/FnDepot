@@ -29,7 +29,7 @@
       "service_port": "17062",
       "sha256": "ee4f57f16e8c922ae8d2800d5eb1f6975c21b800a0f30f57ca26b0a8dd714d20",
       "size": 141.64,
-      "updated_at": "2026-10-09T01:16:42+08:00",
+      "updated_at": "2026-10-09T01:18:13+08:00",
       "version": "1.4.75"
     }
   },
@@ -39,6 +39,6 @@
     "distributor": "Anixc",
     "generated_by": "build_moo_json.py",
     "name": "LiuLiuxc",
-    "updated_at": "2026-10-09T01:16:42+08:00"
+    "updated_at": "2026-10-09T01:18:13+08:00"
   }
 }
