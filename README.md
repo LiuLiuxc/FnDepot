@@ -14,7 +14,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/LiuLiuxc/FnDepot?style=social)](https://github.com/LiuLiuxc/FnDepot)
 [![GitHub issues](https://img.shields.io/github/issues/LiuLiuxc/FnDepot)](https://github.com/LiuLiuxc/FnDepot/issues)
 
-[🔗 添加本源](https://github.com/LiuLiuxc/FnDepot) · [📖 使用文档](https://github.com/EWEDLCM/FnDepot) · [🐛 问题反馈](https://github.com/LiuLiuxc/FnDepot/issues)
+[🔗 添加本源](https://github.com/LiuLiuxc/FnDepot) · [📖 FnDepot 使用文档](https://github.com/EWEDLCM/FnDepot) · [📖 Moo 使用文档](https://github.com/Blue-Mink/moo) · [🐛 问题反馈](https://github.com/LiuLiuxc/FnDepot/issues)
 
 </div>
 
@@ -51,6 +51,8 @@
 ## 📂 仓库结构
 
 ```
+.gitignore         排除安装包 / 发布工具 / 令牌（客户端不读它，见下）
+README.md          本源首页（本文件）
 fnpack.json        FnDepot 索引（V2：schema_version + source_info + apps）
 moo.json           Moo 索引
 miNVR/             每个应用一个目录
@@ -62,10 +64,15 @@ miNVR/             每个应用一个目录
 > **安装包不进仓库**：fpk 有 141.6 MB，超过 GitHub 单文件 100 MB 的硬上限，
 > 因此挂在**本仓的 Release 附件**里，索引里的 `download_url` 直接指向它。
 
+> **`.gitignore` 是仓库本体的一部分**（客户端不读它，但发布流程依赖它）：安装包、
+> 发布工具与 GitHub 令牌都靠它挡在仓库之外；上架时「要推哪些文件」也正是由它决定的。
+> 上游几个应用源（`Blue-Mink/moo`、`EWEDLCM/FnDepot`）同样是这个形态。
+
 ---
 
 ## 🙏 致谢
 
+- [Moo 应用源（Blue-Mink/moo）](https://github.com/Blue-Mink/moo)
 - [FnDepot 外部应用源编写说明](https://github.com/EWEDLCM/FnDepot)
 - [FnDepot 社区源列表](https://github.com/710850609/FnDepot)
 - [飞牛 fnOS](https://www.fnnas.com/)
