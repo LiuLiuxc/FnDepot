@@ -30,15 +30,15 @@
       "service_port": "17062",
       "bug_report_url": "https://github.com/LiuLiuxc/FnDepot/issues",
       "releases": {
-        "1.4.73": {
-          "changelog": "1.4.73：修复双摄机型第二个镜头一直停在「连接中」的问题，现在上下两个镜头都能正常显示；双摄机型改由你在界面上勾选确认，设备列表默认只列一条；若设备其实只有一个镜头，多出来的那一条会给出明确的处理提示。",
-          "updated_at": "2026-10-08T00:15:52+08:00",
+        "1.4.74": {
+          "changelog": "1.4.74：修复切换摄像头相关的一批问题：右侧事件列表现在立即刷新；双摄机型在上下镜头间切换时不再先停在旧画面，重启后第二个镜头也能正常出画并录像。",
+          "updated_at": "2026-10-08T13:09:21+08:00",
           "os_min_version": "1.2.0604",
           "packages": {
             "x86": {
-              "download_url": "https://github.com/LiuLiuxc/FnDepot/releases/download/v1.4.73/miNVR_1.4.73.fpk",
-              "sha256": "6a01ac4a906b56fcf6f8490976a546ebd2bc4ec34c842ee2b8de3711604a3d88",
-              "size": 148494611
+              "download_url": "https://github.com/LiuLiuxc/FnDepot/releases/download/v1.4.74/miNVR_1.4.74.fpk",
+              "sha256": "0d1e7c2b76193fc7b61d9df35e94a5ffdf1e3ea2b6472d4d5c74cee7fc6f4e1a",
+              "size": 148500688
             }
           }
         }
