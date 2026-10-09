@@ -30,15 +30,15 @@
       "service_port": "17062",
       "bug_report_url": "https://github.com/LiuLiuxc/FnDepot/issues",
       "releases": {
-        "1.4.75": {
-          "changelog": "1.4.75：修复回放时间轴显示不完整的问题：有录像的时间段现在都会完整显示出来，时间轴刻度也与画面时间一致。",
-          "updated_at": "2026-10-09T01:16:19+08:00",
+        "1.4.76": {
+          "changelog": "1.4.76：修复摄像头断电重启后那一路录像不再写入的问题 —— 现在能自动发现并恢复；修复应用偶发自行退出（此前需手动重新启用）；运行日志不再随运行时间无限增长。",
+          "updated_at": "2026-10-09T09:39:45+08:00",
           "os_min_version": "1.2.0604",
           "packages": {
             "x86": {
-              "download_url": "https://github.com/LiuLiuxc/FnDepot/releases/download/v1.4.75/miNVR_1.4.75.fpk",
-              "sha256": "ee4f57f16e8c922ae8d2800d5eb1f6975c21b800a0f30f57ca26b0a8dd714d20",
-              "size": 148519658
+              "download_url": "https://github.com/LiuLiuxc/FnDepot/releases/download/v1.4.76/miNVR_1.4.76.fpk",
+              "sha256": "b31b6a16321a1cd79320f863cdfebaf5e93ad6d33222b05e36e2f292b00a29ad",
+              "size": 148529771
             }
           }
         }
