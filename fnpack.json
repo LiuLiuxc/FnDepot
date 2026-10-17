@@ -21,7 +21,7 @@
         "摄影摄像"
       ],
       "maintainer": "Anixc",
-      "maintainer_url": "https://github.com/LiuLiuxc",
+      "maintainer_url": "https://github.com/LiuLiuxc/FnDepot",
       "distributor": "Anixc",
       "distributor_url": "https://github.com/LiuLiuxc/FnDepot",
       "run_as": "package",
@@ -30,15 +30,15 @@
       "service_port": "17062",
       "bug_report_url": "https://github.com/LiuLiuxc/FnDepot/issues",
       "releases": {
-        "1.4.76": {
-          "changelog": "1.4.76：修复摄像头断电重启后那一路录像不再写入的问题 —— 现在能自动发现并恢复；修复应用偶发自行退出（此前需手动重新启用）；运行日志不再随运行时间无限增长。",
-          "updated_at": "2026-10-09T09:39:45+08:00",
+        "1.7.0": {
+          "changelog": "changelog             = 1.7.0（已知问题：变帧录制仍有问题，下个版本修复）：录像更完整（重启后第一段不再只有几秒）；修复实时预览切历史回放后长时间加载、分屏四格全黑；修复重启后多路画面被误判为「该时刻无录像」；修复实时预览分屏点格回单画面却不换路；修复手机横屏四格超出屏幕；手机端分屏固定四格、控件尺寸与对齐统一。",
+          "updated_at": "2026-10-18T03:02:28+08:00",
           "os_min_version": "1.2.0604",
           "packages": {
             "x86": {
-              "download_url": "https://github.com/LiuLiuxc/FnDepot/releases/download/v1.4.76/miNVR_1.4.76.fpk",
-              "sha256": "b31b6a16321a1cd79320f863cdfebaf5e93ad6d33222b05e36e2f292b00a29ad",
-              "size": 148529771
+              "download_url": "https://github.com/LiuLiuxc/FnDepot/releases/download/v1.7.0/miNVR_1.7.0.fpk",
+              "sha256": "a8e2682d7c87e89f4cc4534321185a031ab6bc5dd0cb3a6411fbcc0a715e8be7",
+              "size": 166095738
             }
           }
         }
