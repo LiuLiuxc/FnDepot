@@ -30,7 +30,7 @@
 
 <div align="center">
 
-[![miNVR](https://img.shields.io/badge/miNVR-v1.7.0-orange?style=flat-square)](https://github.com/LiuLiuxc/FnDepot) [![Platform](https://img.shields.io/badge/Platform-x86__64-lightgrey?style=flat-square)](#)
+[![miNVR](https://img.shields.io/badge/miNVR-v1.7.1-orange?style=flat-square)](https://github.com/LiuLiuxc/FnDepot) [![Platform](https://img.shields.io/badge/Platform-x86__64-lightgrey?style=flat-square)](#)
 
 </div>
 
@@ -40,9 +40,9 @@
 | :--- | :--- |
 | 👨‍💻 **开发者** | [Anixc](https://github.com/LiuLiuxc) |
 | 📥 **安装方式** | 在 FnDepot / Moo 中添加本源，客户端里搜索「miNVR」即可安装 |
-| 🏷️ **版本** | v1.7.0 |
+| 🏷️ **版本** | v1.7.1 |
 | 🖥️ **平台** | x86_64（飞牛 fnOS，安装位置：系统空间） |
-| 📦 **安装包** | 本仓 [Releases](https://github.com/LiuLiuxc/FnDepot/releases)（158.4 MB） |
+| 📦 **安装包** | 本仓 [Releases](https://github.com/LiuLiuxc/FnDepot/releases)（158.3 MB） |
 | 📖 **详细说明** | [miNVR/README.md](miNVR/README.md) |
 | ❤️ **爱发电** | [afdian.com/a/miNVR](https://afdian.com/a/miNVR)（支持开发者持续维护） |
 
