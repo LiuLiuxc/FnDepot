@@ -32,13 +32,13 @@
       "releases": {
         "1.7.1": {
           "changelog": "1.7.1：重启后首段录像不再只有几秒、从实时预览切历史回放不再转圈卡死、看回放不再一片「该时刻无录像」、分屏点哪格就切哪路、手机横屏四格不再超屏、「单独设置」去掉重复的录音开关。已知问题：变帧省空间仍待修复。",
-          "updated_at": "2026-10-19T14:08:11+08:00",
+          "updated_at": "2026-10-19T14:22:23+08:00",
           "os_min_version": "1.2.0604",
           "packages": {
             "x86": {
               "download_url": "https://github.com/LiuLiuxc/FnDepot/releases/download/v1.7.1/miNVR_1.7.1.fpk",
-              "sha256": "b3dc78c0fb2dc68b6ee083acf97eed0306a6fc2a93674a6fa6039599dc8e6725",
-              "size": 166002161
+              "sha256": "17c257cee12f88862de70a0edbb6c40834c54a55ce4f869204fd4fb27cc6e0bc",
+              "size": 166002089
             }
           }
         }
