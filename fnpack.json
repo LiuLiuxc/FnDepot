@@ -31,14 +31,14 @@
       "bug_report_url": "https://github.com/LiuLiuxc/FnDepot/issues",
       "releases": {
         "1.7.1": {
-          "changelog": "1.7.1：授权方式升级为签名校验（安装包内不再含可签发图腾的密钥），旧图腾凭机器码免费换新；沿用 1.7.0 的录像分段、切页加载、多路判空、点格切路、横屏溢出修复。",
-          "updated_at": "2026-10-19T13:31:07+08:00",
+          "changelog": "1.7.1：重启后首段录像不再只有几秒、从实时预览切历史回放不再转圈卡死、看回放不再一片「该时刻无录像」、分屏点哪格就切哪路、手机横屏四格不再超屏。已知问题：变帧省空间仍待修复。",
+          "updated_at": "2026-10-19T13:35:54+08:00",
           "os_min_version": "1.2.0604",
           "packages": {
             "x86": {
               "download_url": "https://github.com/LiuLiuxc/FnDepot/releases/download/v1.7.1/miNVR_1.7.1.fpk",
-              "sha256": "5064c2b3f6d032d8c41b76cde65e12cb744e7c168210d7ee0030cb6271179746",
-              "size": 166002267
+              "sha256": "f20b59a6207c8b6a41b69974809cb8b75b1db5a2169a23d3872ca28591c3a259",
+              "size": 166002147
             }
           }
         }
