@@ -27,9 +27,9 @@
       ],
       "readme_url": "https://raw.githubusercontent.com/LiuLiuxc/FnDepot/main/miNVR/README.md",
       "service_port": "17062",
-      "sha256": "b3dc78c0fb2dc68b6ee083acf97eed0306a6fc2a93674a6fa6039599dc8e6725",
+      "sha256": "17c257cee12f88862de70a0edbb6c40834c54a55ce4f869204fd4fb27cc6e0bc",
       "size": 158.31,
-      "updated_at": "2026-10-19T14:08:11+08:00",
+      "updated_at": "2026-10-19T14:22:23+08:00",
       "version": "1.7.1"
     }
   },
@@ -39,6 +39,6 @@
     "distributor": "Anixc",
     "generated_by": "build_moo_json.py",
     "name": "LiuLiuxc",
-    "updated_at": "2026-10-19T14:08:11+08:00"
+    "updated_at": "2026-10-19T14:22:23+08:00"
   }
 }
