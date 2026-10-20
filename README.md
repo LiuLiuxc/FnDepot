@@ -46,6 +46,29 @@
 | 📖 **详细说明** | [miNVR/README.md](miNVR/README.md) |
 | ❤️ **爱发电** | [afdian.com/a/miNVR](https://afdian.com/a/miNVR)（支持开发者持续维护） |
 
+### 📄 汇页 PDF
+
+PDF 与扫描件的合并、排序、删页旋转、按页拆分、压缩与隐私水印；全部在浏览器与 NAS 本机完成，文件不上传任何服务器。
+
+<br/>
+
+<div align="center">
+
+[![汇页 PDF](https://img.shields.io/badge/%E6%B1%87%E9%A1%B5%20PDF-v1.0.29-orange?style=flat-square)](https://github.com/LiuLiuxc/FnDepot) [![Platform](https://img.shields.io/badge/Platform-x86__64%20%2F%20arm64-lightgrey?style=flat-square)](#)
+
+</div>
+
+<br/>
+
+| 项目 | 信息 |
+| :--- | :--- |
+| 👨‍💻 **开发者** | [Anixc](https://github.com/LiuLiuxc) |
+| 📥 **安装方式** | 在 FnDepot / Moo 中添加本源，客户端里搜索「汇页 PDF」即可安装 |
+| 🏷️ **版本** | v1.0.29 |
+| 🖥️ **平台** | x86_64 / arm64 通用（飞牛 fnOS，安装位置：系统空间） |
+| 📦 **安装包** | 本仓 [Releases](https://github.com/LiuLiuxc/FnDepot/releases)（4.91 MB） |
+| 📖 **详细说明** | [huiyepdf/README.md](huiyepdf/README.md) |
+
 ---
 
 ## 📂 仓库结构
@@ -54,14 +77,13 @@
 README.md          本源首页（本文件）
 fnpack.json        FnDepot 索引（V2：schema_version + source_info + apps）
 moo.json           Moo 索引
-miNVR/             每个应用一个目录
-  ├── ICON.PNG     图标
-  ├── README.md    应用介绍
-  └── preview/     预览图
+miNVR/             应用目录：图标 / 介绍 / 预览图
+huiyepdf/          同上（汇页 PDF）
+  每个应用目录下：ICON.PNG、README.md、preview/
 ```
 
-> **安装包不进仓库**：fpk 有 141.6 MB，超过 GitHub 单文件 100 MB 的硬上限，
-> 因此挂在**本仓的 Release 附件**里，索引里的 `download_url` 直接指向它。
+> **安装包不进仓库**：fpk 一律挂在**本仓的 Release 附件**里，索引里的 `download_url` 直接指向它。
+> （miNVR 的包 158 MB，超过 GitHub 单文件 100 MB 的硬上限；汇页 PDF 只有 4.91 MB，但为保持一致也走 Release。）
 
 ---
 

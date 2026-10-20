@@ -51,6 +51,60 @@
         "https://raw.githubusercontent.com/LiuLiuxc/FnDepot/main/miNVR/preview/03_settings_camera.png",
         "https://raw.githubusercontent.com/LiuLiuxc/FnDepot/main/miNVR/preview/04_about.png"
       ]
+    },
+    "huiyepdf": {
+      "display_name": "汇页 PDF",
+      "desc": "PDF 与扫描件的合并、排序、删页旋转、按页拆分、压缩与隐私水印；全部在浏览器与 NAS 本机完成，文件不上传任何服务器。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "工具",
+        "办公"
+      ],
+      "labels": [
+        "PDF",
+        "图片处理"
+      ],
+      "maintainer": "Anixc",
+      "maintainer_url": "https://github.com/LiuLiuxc/FnDepot",
+      "distributor": "Anixc",
+      "distributor_url": "https://github.com/LiuLiuxc/FnDepot",
+      "run_as": "package",
+      "install_type": "root",
+      "is_docker": false,
+      "service_port": "17121",
+      "bug_report_url": "https://github.com/LiuLiuxc/FnDepot/issues",
+      "releases": {
+        "1.0.29": {
+          "changelog": "1.0.29 首个上架版本：合并 / 拖动排序 / 逐页删除与旋转、逐页预览、按页码范围拆分成多份、压缩导出（质量与分辨率可调）、隐私水印（字体字号颜色角度密度可调）；全部在浏览器与 NAS 本机完成，文件不上传任何服务器。",
+          "updated_at": "2026-10-20T14:10:00+08:00",
+          "os_min_version": "1.2.0",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/LiuLiuxc/FnDepot/releases/download/huiyepdf-v1.0.29/huiyepdf_1.0.29.fpk",
+              "sha256": "8f50de2ca06bbc50573b334f86dbb06a89da3a5b2edab2623598a8e1a3e31c93",
+              "size": 5148620
+            },
+            "arm": {
+              "download_url": "https://github.com/LiuLiuxc/FnDepot/releases/download/huiyepdf-v1.0.29/huiyepdf_1.0.29.fpk",
+              "sha256": "8f50de2ca06bbc50573b334f86dbb06a89da3a5b2edab2623598a8e1a3e31c93",
+              "size": 5148620
+            }
+          }
+        }
+      },
+      "icon_url": "https://raw.githubusercontent.com/LiuLiuxc/FnDepot/main/huiyepdf/ICON.PNG",
+      "readme_url": "https://raw.githubusercontent.com/LiuLiuxc/FnDepot/main/huiyepdf/README.md",
+      "preview_urls": [
+        "https://raw.githubusercontent.com/LiuLiuxc/FnDepot/main/huiyepdf/preview/01_merge.png",
+        "https://raw.githubusercontent.com/LiuLiuxc/FnDepot/main/huiyepdf/preview/02_preview.png",
+        "https://raw.githubusercontent.com/LiuLiuxc/FnDepot/main/huiyepdf/preview/03_split.png",
+        "https://raw.githubusercontent.com/LiuLiuxc/FnDepot/main/huiyepdf/preview/04_compress.png",
+        "https://raw.githubusercontent.com/LiuLiuxc/FnDepot/main/huiyepdf/preview/05_watermark.png",
+        "https://raw.githubusercontent.com/LiuLiuxc/FnDepot/main/huiyepdf/preview/06_start.png"
+      ]
     }
   }
 }
