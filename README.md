@@ -49,6 +49,8 @@
 | 📦 **安装包** | 本仓 [Releases](https://github.com/LiuLiuxc/FnDepot/releases)（158.3 MB） |
 | 📖 **详细说明** | [miNVR/README.md](miNVR/README.md) |
 
+---
+
 ### 📄 汇页 PDF
 
 PDF 与扫描件的合并、排序、删页旋转、按页拆分、压缩与隐私水印；全部在浏览器与 NAS 本机完成，文件不上传任何服务器。
