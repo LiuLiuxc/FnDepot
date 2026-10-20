@@ -61,6 +61,11 @@
 
 ---
 
+## 支持
+
+汇页 PDF 在飞牛端完全免费，没有授权码、也没有"高级版"。如果它帮你省了时间，
+可以在 [爱发电](https://afdian.com/a/Anixc) 请我喝瓶水 —— 赞助不影响任何功能。
+
 ## 反馈
 
 问题与建议：<https://github.com/LiuLiuxc/FnDepot/issues>

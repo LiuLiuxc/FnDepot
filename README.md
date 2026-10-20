@@ -18,6 +18,10 @@
 
 </div>
 
+> ❤️ **支持开发者**：[爱发电 · afdian.com/a/Anixc](https://afdian.com/a/Anixc)
+> —— 这里的应用都是一个人维护的，赞助只是让它们继续更新，不影响任何功能。
+> （汇页 PDF 飞牛端完全免费；miNVR 基础功能免费，高级功能一次性解锁。）
+
 ---
 
 ## 📦 应用列表
@@ -44,7 +48,6 @@
 | 🖥️ **平台** | x86_64（飞牛 fnOS，安装位置：系统空间） |
 | 📦 **安装包** | 本仓 [Releases](https://github.com/LiuLiuxc/FnDepot/releases)（158.3 MB） |
 | 📖 **详细说明** | [miNVR/README.md](miNVR/README.md) |
-| ❤️ **爱发电** | [afdian.com/a/miNVR](https://afdian.com/a/miNVR)（支持开发者持续维护） |
 
 ### 📄 汇页 PDF
 
