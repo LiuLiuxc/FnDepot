@@ -49,7 +49,11 @@
 | 📦 **安装包** | 本仓 [Releases](https://github.com/LiuLiuxc/FnDepot/releases)（158.3 MB） |
 | 📖 **详细说明** | [miNVR/README.md](miNVR/README.md) |
 
----
+<br/>
+
+<div align="center">— — — — — — — — — — — — — —</div>
+
+<br/>
 
 ### 📄 汇页 PDF
 
