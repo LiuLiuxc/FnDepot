@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="6" viewBox="0 0 480 6" role="img" aria-label="divider">
+  <!-- 22 段等距短横；pathLength 归一化后 dasharray 直接按"22 份"切，改宽度也不会变段数 -->
+  <line x1="6" y1="3" x2="474" y2="3"
+        stroke="#c9d1d9" stroke-width="2.5" stroke-linecap="round"
+        stroke-dasharray="0.62 0.38" pathLength="22"/>
+</svg>

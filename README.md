@@ -51,7 +51,9 @@
 
 <br/>
 
-<div align="center">— — — — — — — — — — — — — — — — — — — — — — — — — —</div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LiuLiuxc/FnDepot/main/assets/dash.svg" width="480" height="6" alt="">
+</div>
 
 <br/>
 
