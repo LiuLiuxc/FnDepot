@@ -36,7 +36,7 @@
           "os_min_version": "1.2.0604",
           "packages": {
             "x86": {
-              "download_url": "https://github.com/LiuLiuxc/FnDepot/releases/download/v1.7.1/miNVR_1.7.1.fpk",
+              "download_url": "https://github.com/LiuLiuxc/FnDepot/releases/download/minvr-v1.7.1/miNVR_1.7.1.fpk",
               "sha256": "17c257cee12f88862de70a0edbb6c40834c54a55ce4f869204fd4fb27cc6e0bc",
               "size": 166002089
             }

@@ -82,6 +82,11 @@ huiyepdf/          同上（汇页 PDF）
   每个应用目录下：ICON.PNG、README.md、preview/
 ```
 
+> **Release tag 约定**：`<应用目录名>-v<版本>`，例如 `huiyepdf-v1.0.29`、`minvr-v1.7.1`。
+> 带上应用前缀是为了不同应用版本号相撞时不冲突（以前 miNVR 用的是裸 `v1.7.1`，已迁到 `minvr-v1.7.1`）。
+> 另外：**先推提交、再建 Release**（或把 `target_commitish` 填成该提交的 sha），否则 Release 里自动生成的
+> "Source code" 源码包会停在旧提交上。
+
 > **安装包不进仓库**：fpk 一律挂在**本仓的 Release 附件**里，索引里的 `download_url` 直接指向它。
 > （miNVR 的包 158 MB，超过 GitHub 单文件 100 MB 的硬上限；汇页 PDF 只有 4.91 MB，但为保持一致也走 Release。）
 
