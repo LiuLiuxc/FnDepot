@@ -17,9 +17,6 @@
         "影音娱乐",
         "生活服务"
       ],
-      "labels": [
-        "摄影摄像"
-      ],
       "maintainer": "Anixc",
       "maintainer_url": "https://github.com/LiuLiuxc/FnDepot",
       "distributor": "Anixc",
@@ -60,12 +57,7 @@
         "arm"
       ],
       "categories": [
-        "工具",
-        "办公"
-      ],
-      "labels": [
-        "PDF",
-        "图片处理"
+        "系统工具"
       ],
       "maintainer": "Anixc",
       "maintainer_url": "https://github.com/LiuLiuxc/FnDepot",
@@ -91,6 +83,23 @@
               "download_url": "https://github.com/LiuLiuxc/FnDepot/releases/download/huiyepdf-v1.0.29/huiyepdf_1.0.29.fpk",
               "sha256": "8f50de2ca06bbc50573b334f86dbb06a89da3a5b2edab2623598a8e1a3e31c93",
               "size": 5148620
+            }
+          }
+        },
+        "1.0.30": {
+          "changelog": "隐私水印改为交错平铺（奇偶行错开半格，覆盖更均匀）；水印预览区在手机上恢复显示并支持滚动；导出结果提示不再被挤成竖排单字；滑块填充与手柄对齐；手机端协议弹窗可正常滚动，未读完点同意会明确提示；修复手机端反复弹协议与反复选语言的问题。",
+          "updated_at": "2026-10-25T17:30:00+08:00",
+          "os_min_version": "1.2.0",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/LiuLiuxc/FnDepot/releases/download/huiyepdf-v1.0.30/huiyepdf_1.0.30.fpk",
+              "sha256": "763799de96a2055784f0ab94af2487a9b6f60066b78afcf44a2aa4e07f59fb09",
+              "size": 5304388
+            },
+            "arm": {
+              "download_url": "https://github.com/LiuLiuxc/FnDepot/releases/download/huiyepdf-v1.0.30/huiyepdf_1.0.30.fpk",
+              "sha256": "763799de96a2055784f0ab94af2487a9b6f60066b78afcf44a2aa4e07f59fb09",
+              "size": 5304388
             }
           }
         }

@@ -77,7 +77,7 @@ PDF 与扫描件的合并、排序、删页旋转、按页拆分、压缩与隐�
 | 📥 **安装方式** | 在 FnDepot / Moo 中添加本源，客户端里搜索「汇页 PDF」即可安装 |
 | 🏷️ **版本** | v1.0.29 |
 | 🖥️ **平台** | x86_64 / arm64 通用（飞牛 fnOS，安装位置：系统空间） |
-| 📦 **安装包** | 本仓 [Releases](https://github.com/LiuLiuxc/FnDepot/releases)（4.91 MB） |
+| 📦 **安装包** | 本仓 [Releases](https://github.com/LiuLiuxc/FnDepot/releases)（5.06 MB） |
 | 📖 **详细说明** | [huiyepdf/README.md](huiyepdf/README.md) |
 
 ---
