@@ -39,12 +39,12 @@
       "categories": [
         "工具"
       ],
-      "changelog": "1.0.29 首个上架版本：合并 / 拖动排序 / 逐页删除与旋转、逐页预览、按页码范围拆分成多份、压缩导出（质量与分辨率可调）、隐私水印（字体字号颜色角度密度可调）；全部在浏览器与 NAS 本机完成，文件不上传任何服务器。",
+      "changelog": "1.0.30：隐私水印改为交错平铺（相邻行错开半格，覆盖更均匀）；水印实时预览在手机上恢复显示、弹窗内容可滚动；导出结果提示不再被挤成竖排单字；滑块填充与手柄对齐；手机端用户协议可正常滚动，未读完点「同意」会明确提示；修复手机端反复弹协议与切换语言后反复重选的问题。",
       "desc": "PDF 与扫描件的合并、排序、删页旋转、按页拆分、压缩与隐私水印；全部在浏览器与 NAS 本机完成，文件不上传任何服务器。",
       "desc_html": "<p><b>汇页 PDF</b> · 把合同、发票、扫描件、手机拍的照片丢进来，按你要的顺序整理成一份（或几份）PDF。</p><p><b>核心能力</b></p><ul><li>合并：PDF 与图片（JPG / PNG / WEBP / BMP）可以混着拖进来</li><li>排序与编辑：拖卡片排序，每页可单独删除、旋转 90°</li><li>逐页预览：导出前先看最终效果（含水印），滚到哪渲染到哪</li><li>按页拆分：<code>1-3</code> 连续、<code>4,6</code> 跳页都行，每份单独命名，一次存盘</li><li>压缩导出：页面栅格化为 JPEG，质量 40-90%、分辨率 120/150/200 DPI 可调</li><li>隐私水印：全屏平铺，文字 / 字体 / 字号 / 颜色 / 透明度 / 密度 / 角度可调，面板里就能看到效果</li><li>保存到 NAS 任意已授权文件夹，或下载到本机</li></ul><p><b>隐私</b>：合并、旋转、压缩、加水印、生成 PDF 全部在你的浏览器内完成，文件不上传任何外部服务器；不引入统计或广告请求。</p><p><b>说明</b>：手机上的飞牛 App 内请用「保存到 NAS」，再从飞牛「文件」里下载到手机。</p>",
       "display_name": "汇页 PDF",
       "distributor": "Anixc",
-      "download_url": "https://github.com/LiuLiuxc/FnDepot/releases/download/huiyepdf-v1.0.29/huiyepdf_1.0.29.fpk",
+      "download_url": "https://github.com/LiuLiuxc/FnDepot/releases/download/huiyepdf-v1.0.30/huiyepdf_1.0.30.fpk",
       "icon_url": "https://raw.githubusercontent.com/LiuLiuxc/FnDepot/main/huiyepdf/ICON.PNG",
       "install_type": "package",
       "min_fnos": "1.2.0",
@@ -62,10 +62,10 @@
       ],
       "readme_url": "https://raw.githubusercontent.com/LiuLiuxc/FnDepot/main/huiyepdf/README.md",
       "service_port": "17121",
-      "sha256": "8f50de2ca06bbc50573b334f86dbb06a89da3a5b2edab2623598a8e1a3e31c93",
-      "size": 4.91,
-      "updated_at": "2026-10-20T14:10:00+08:00",
-      "version": "1.0.29"
+      "sha256": "763799de96a2055784f0ab94af2487a9b6f60066b78afcf44a2aa4e07f59fb09",
+      "size": 5.06,
+      "updated_at": "2026-10-25T17:30:00+08:00",
+      "version": "1.0.30"
     }
   },
   "schema_version": "moo",
