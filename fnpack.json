@@ -102,6 +102,23 @@
               "size": 5304388
             }
           }
+        },
+        "1.0.31": {
+          "changelog": "新增「支持开发者」入口（应用仍完全免费、无任何功能锁）；导出按钮换成更易识别的图标（文档+箭头）；卡片头部改为「文件名-原页码」，长文件名中间省略；拖动换位改为「中部交换、贴边插入」，交换的两张卡以颜色外框提示、没换成会显示红框；补齐九种语言的遗漏文案，浏览器标签页标题跟随语言",
+          "updated_at": "2026-11-25T11:30:43+08:00",
+          "os_min_version": "1.2.0",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/LiuLiuxc/FnDepot/releases/download/huiyepdf-v1.0.31/huiyepdf_1.0.31.fpk",
+              "sha256": "b93a8ade74724359932ff6696fee51b3f1e6bfc2f205337c928a60975cff8a54",
+              "size": 5356807
+            },
+            "arm": {
+              "download_url": "https://github.com/LiuLiuxc/FnDepot/releases/download/huiyepdf-v1.0.31/huiyepdf_1.0.31.fpk",
+              "sha256": "b93a8ade74724359932ff6696fee51b3f1e6bfc2f205337c928a60975cff8a54",
+              "size": 5356807
+            }
+          }
         }
       },
       "icon_url": "https://raw.githubusercontent.com/LiuLiuxc/FnDepot/main/huiyepdf/ICON.PNG",
